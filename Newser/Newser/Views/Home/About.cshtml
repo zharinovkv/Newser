@@ -1,0 +1,16 @@
+﻿@using Newser.Models
+
+@{
+    ViewBag.Title = "About";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<p>Use this area to provide additional information.</p>
+
+<div class="row">
+    <div class="col-md-12">
+        <h2>Частичное представление юзера</h2>
+        @Html.Partial("_PartialUser", new User() { Id = 1, Username = "Vasya", Email = "user@mail.com", CreateDate = DateTime.Now, Password = "qwerty" })
+    </div>
+</div>

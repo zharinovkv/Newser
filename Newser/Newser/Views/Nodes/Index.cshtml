@@ -1,0 +1,97 @@
+﻿@*model IEnumerable<Newser.Controllers.NodeC>*@
+
+@model PagedList.IPagedList<Newser.Controllers.NodeC>
+@using PagedList.Mvc;
+@using Newser.Models;
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @if (User.IsInRole("admin"))
+    {
+        @Html.ActionLink("Create New", "Create")
+    }
+
+</p>
+<table class="table">
+
+    @{int i = 0;}
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <div><h3>@Html.DisplayFor(modelItem => item.Node.Title)</h3></div>
+                <div>
+                    @if (item.Node.Image != null)
+                    {
+                        <div style="float:left" class="well-lg">
+                            <img src="~/ImagesUpload/@item.Node.Image.Id.@item.Node.Image.Ext" width="250" />
+                        </div>
+                    }
+                </div>
+                
+                <div>
+                    @Html.DisplayFor(modelItem => item.Node.Body)
+                </div>
+
+
+
+                <div>
+                    @Html.DisplayFor(modelItem => item.Node.CreateDate)
+                </div>
+                <div>
+                    @if (item.Node.User != null)
+                {
+                        @item.Node.User.UserName
+                    }
+                </div>
+
+                            <div>
+                                @Html.DisplayFor(modelItem => item.Node.Tags.Count)
+
+                            @if (item.Node.Tags.Count > 0)
+                {
+                    foreach (var teg in item.Node.Tags)
+                    {
+                                    @Html.ActionLink(teg.Name, "Details", "Tags", new { id = teg.Name }, null)<text>, </text>
+                                }
+                            }
+                            else
+                            {
+                                <text>Тут тегов нет</text>
+                            }</div>
+
+                <div>
+                    @item.CommentCount
+                </div>
+                <div>
+                    @Html.ActionLink("Изменить", "Edit", new { id = item.Node.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Node.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Node.Id })
+                </div>
+
+                                    <div id="comments_@i">
+                                        <div class="blog-post-comments">
+                                            Comments: @Html.DisplayFor(modelItem => item.CommentCount)
+                                            @if (item.LastCommentDate != null)
+                                            {
+                                                <text>(last </text>@Html.DisplayFor(modelItem => item.LastCommentDate)<text>)</text>
+                                            }
+                                        </div>
+                                        @Ajax.ActionLink("Load comments", "GetComments", "Comments", new { id = item.Node.Id }, new AjaxOptions { UpdateTargetId = "comments_" + i++ })
+                                    </div>
+</td>
+                </tr>
+    }
+
+</table>
+
+<br />
+Страница @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) из @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))

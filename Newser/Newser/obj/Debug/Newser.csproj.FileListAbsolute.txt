@@ -1,0 +1,281 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Newser.dll.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Newser.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Newser.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Antlr3.Runtime.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.Owin.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Owin.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\System.Web.Helpers.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\System.Web.Mvc.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\System.Web.Optimization.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\System.Web.Razor.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\System.Web.WebPages.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\WebGrease.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\System.Web.Helpers.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\System.Web.Mvc.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\System.Web.Optimization.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\System.Web.Razor.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\System.Web.WebPages.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Antlr3.Runtime.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.Owin.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\obj\Debug\Newser.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\obj\Debug\Newser.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Newser\Newser\obj\Debug\Newser.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Newser.dll.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Newser.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Newser.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Antlr3.Runtime.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Owin.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.Helpers.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.Mvc.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.Optimization.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.Razor.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.WebPages.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\WebGrease.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.Helpers.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.Mvc.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.Optimization.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.Razor.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.WebPages.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Antlr3.Runtime.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\obj\Debug\Newser.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Newser\Newser\obj\Debug\Newser.pdb
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\obj\Debug\Newser.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\obj\Debug\Newser.pdb
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Newser.dll.config
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Newser.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Newser.pdb
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Antlr3.Runtime.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\EntityFramework.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\EntityFramework.SqlServer.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Google.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Web.Infrastructure.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Newtonsoft.Json.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Owin.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.Helpers.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.Mvc.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.Optimization.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.Razor.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.WebPages.Deployment.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.WebPages.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.WebPages.Razor.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\WebGrease.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\EntityFramework.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\EntityFramework.SqlServer.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.Helpers.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.Mvc.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.Optimization.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.Razor.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.WebPages.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.WebPages.Deployment.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\System.Web.WebPages.Razor.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Antlr3.Runtime.pdb
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Newtonsoft.Json.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Google.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser\Newser\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Newser.dll.config
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Newser.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Newser.pdb
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Antlr3.Runtime.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\EntityFramework.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\EntityFramework.SqlServer.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.Owin.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.Google.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.Web.Infrastructure.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Newtonsoft.Json.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Owin.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\PagedList.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\PagedList.Mvc.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\System.Web.Helpers.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\System.Web.Mvc.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\System.Web.Optimization.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\System.Web.Razor.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\System.Web.WebPages.Deployment.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\System.Web.WebPages.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\System.Web.WebPages.Razor.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\WebGrease.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\EntityFramework.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\EntityFramework.SqlServer.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\PagedList.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\PagedList.Mvc.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\System.Web.Helpers.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\System.Web.Mvc.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\System.Web.Optimization.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\System.Web.Razor.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\System.Web.WebPages.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\System.Web.WebPages.Deployment.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\System.Web.WebPages.Razor.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Antlr3.Runtime.pdb
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Newtonsoft.Json.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.Owin.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.Google.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\obj\Debug\Newser.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\obj\Debug\Newser.pdb
+D:\Мои Документы\Visual Studio 2015\Projects\Newser6\Newser\Newser\obj\Debug\Newser.csprojResolveAssemblyReference.cache
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Newser.dll.config
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Newser.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Newser.pdb
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Antlr3.Runtime.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\EntityFramework.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\EntityFramework.SqlServer.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.Owin.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.Google.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.Web.Infrastructure.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Newtonsoft.Json.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Owin.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\PagedList.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\PagedList.Mvc.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\System.Web.Helpers.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\System.Web.Mvc.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\System.Web.Optimization.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\System.Web.Razor.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\System.Web.WebPages.Deployment.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\System.Web.WebPages.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\System.Web.WebPages.Razor.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\WebGrease.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\EntityFramework.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\EntityFramework.SqlServer.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\PagedList.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\PagedList.Mvc.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\System.Web.Helpers.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\System.Web.Mvc.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\System.Web.Optimization.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\System.Web.Razor.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\System.Web.WebPages.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\System.Web.WebPages.Deployment.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\System.Web.WebPages.Razor.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Antlr3.Runtime.pdb
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Newtonsoft.Json.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.Owin.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.Google.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\obj\Debug\Newser.csprojResolveAssemblyReference.cache
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\obj\Debug\Newser.dll
+D:\Мои Документы\Visual Studio 2015\Projects\Lessons GeekBrains 2\Newser6\Newser\Newser\obj\Debug\Newser.pdb

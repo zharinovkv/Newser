@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "AjaxTest";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>AjaxTest</h2>
+
+
+@Ajax.ActionLink("вычисление", "AjaxAction", new {x=5, y=6 }, new AjaxOptions { UpdateTargetId = "tableBody", LoadingElementDuration = 3000, LoadingElementId = "loading" })
+
+
+<div id="loading"  class="load" style="display:none">
+    <p>Загрузка данных...</p>
+</div>
+
+<div id="tableBody"></div>

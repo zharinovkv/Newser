@@ -1,0 +1,132 @@
+﻿@model Newser.Models.Node
+@using Newser.Models;
+
+@{
+    ViewBag.Title = @Html.DisplayFor(model => model.Title);
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Html.DisplayFor(model => model.Title)</h2>
+
+<div>
+    <h4>@Html.DisplayFor(model => model.Title)</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Body)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Body)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CreateDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CreateDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tags)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tags.Count)
+
+            @if (Model.Tags.Count > 0)
+            {
+                foreach (var teg in Model.Tags)
+                {
+                    @Html.ActionLink(teg.Name, "Details", "Tags", new { id = teg.Name }, null)<text>, </text>
+                }
+            }
+            else
+            {
+                <text>Тут тегов нет</text>
+            }
+
+
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @if (User.IsInRole("admin"))
+    {
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) <text> | </text>
+}
+    @Html.ActionLink("Back to List", "Index") | 
+
+    Автор: @Html.DisplayFor(model => model.User.UserName)
+</p>
+
+
+<div>
+    @using (Html.BeginForm("Create", "CommentsInDetails", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4>Комментарий</h4>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <div class="form-group">
+                @Html.Label("Поле ввода комментария", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextArea("Body", "", new { htmlAttributes = new { @class = "form-control" } })
+
+                    @Html.ValidationMessage("Body", "", new { @class = "text-danger" })
+                    @Html.Hidden("CreateDate", DateTime.Now)
+                    @Html.Hidden("NodeId", Model.Id)
+
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Add reply" class="btn btn-default" />
+            </div>
+        </div>
+    }
+</div>
+
+
+<br />
+
+
+<h2>Комментарии</h2>
+
+<table>
+    @foreach (var item in Model.Comments)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Node.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Body)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreateDate)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", "CommentsInDetails", new { id = item.Id }, null) |
+                @Html.ActionLink("Details", "Details", "CommentsInDetails", new { id = item.Id }, null) |
+                @Html.ActionLink("Delete", "Delete", "CommentsInDetails", new { id = item.Id }, null) |
+                @Html.DisplayFor(modelItem => item.User.UserName)
+            </td>
+        </tr>
+    }
+</table>
